@@ -1,0 +1,63 @@
+[{
+    "bur": null,
+    "pdr":{
+        "address": {
+            "address1": "123 Main Street",
+            "county": "fakeCounty",
+            "state": "OH",
+            "zip": "54701",
+            "geoData":{
+                "latitude": 70,
+                "longitude": -123
+            }
+        },
+        "businessDetails": {
+            "name": "fake business",
+            "yearBusinessStarted": 2001,
+            "numEmployees": 12,
+            "grossAnnualSales": 1000000
+        }
+    }
+},
+{
+    "bur": null,
+    "pdr":{
+        "address": {
+            "address1": "123 Fake Street",
+            "county": "fakeCounty",
+            "state": "OH",
+            "zip": "54701",
+            "geoData": {
+                "latitude": 68,
+                "longitude": -125
+            }
+        },
+        "businessDetails": {
+            "name": "fake business 2",
+            "yearBusinessStarted": 2003,
+            "numEmployees": 24,
+            "grossAnnualSales": 200000
+        }
+    }
+},
+{
+    "bur": {
+        "address": {
+            "address1": "123 Fake Street",
+            "county": "fakeCounty",
+            "state": "OH",
+            "zip": "54701",
+            "geoData": {
+                "latitude": 68,
+                "longitude": -125
+            }
+        },
+        "businessDetails": {
+            "name": "fake business 2",
+            "yearBusinessStarted": 2003,
+            "numEmployees": 24,
+            "grossAnnualSales": 200000
+        }
+    },
+    "pdr":null
+}]
